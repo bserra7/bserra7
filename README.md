@@ -44,7 +44,10 @@
 
 ## 🔍Quieres saber más de mi? Contáctame!
 <a href="https://www.linkedin.com/in/braianserra" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="linkedin profile" width="40" height="40" /></a>
-<a href="bnserra@hotmail.com" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/705/107/png-transparent-microsoft-outlook-outlook-com-outlook-mobile-email-outlook-miscellaneous-blue-angle.png" alt="linkedin profile" width="40" height="40" /></a>
+<a href="mailto:bnserra@hotmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/2086px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="hotmail" width="40" height="40" /></a>
+<a href="mailto:bnserra@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="40" height="40" /></a>
+
+
 
 
 
