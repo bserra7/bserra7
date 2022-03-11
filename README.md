@@ -23,7 +23,7 @@
 
 
 ### Back-end NodeJS, ExpressJS, Mongoose, Sequelize
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://anthoncode.com/wp-content/uploads/2019/01/nodejs-logo-png.png" alt="nodejs" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/600/1*AJTB4eViV7eQeOC9uUGABw.png" alt="nodejs" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://coursework.vschool.io/content/images/2015/11/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67.png" alt="express" height="40"/> </a>
 
 ### Databases PostgreSQL, MongoDB
