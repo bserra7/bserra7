@@ -8,10 +8,10 @@
 ✅Trabajar en un ambiente agradable con la posibilidad de participar de diferentes cursos de capacitación para un mejor desarrollo de mis actividades y poder lograr un crecimiento a nivel profesional como también personal.
 
 ### 👨‍💻Tecnologias que manejo: 
-• Programming Lenguages: JavaScript, TypeScript
-• Front-end: ReactJS, ReduxJS, AngularJS, SASS, LESS, CSS3, HTML5, jQuery
-• Back-end: NodeJS, ExpressJS, Mongoose, Sequelize
-• Databases: PostgreSQL, MongoDB
+- **Programming Lenguages:** JavaScript, TypeScript
+- **Front-end:** ReactJS, ReduxJS, AngularJS, SASS, LESS, CSS3, HTML5, jQuery
+- **Back-end:** NodeJS, ExpressJS, Mongoose, Sequelize
+- **Databases:** PostgreSQL, MongoDB
 
 ### 🔍Quieres saber más de mi? Contáctame!
 📧 bnserra@hotmail.com
