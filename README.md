@@ -44,7 +44,9 @@
 
 ## 🔍Quieres saber más de mi? Contáctame!
 <a href="https://www.linkedin.com/in/braianserra" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="linkedin profile" width="40" height="40" /></a>
-- 📧 bnserra@hotmail.com
+<a href="bnserra@hotmail.com" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/705/107/png-transparent-microsoft-outlook-outlook-com-outlook-mobile-email-outlook-miscellaneous-blue-angle.png" alt="linkedin profile" width="40" height="40" /></a>
+
+
 
 <!--
 **bserra7/bserra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
