@@ -6,7 +6,7 @@ Braian Serra - Full Stack Web Developer 💻
 
 &nbsp;&nbsp;
 
-> Hola! 👋 soy desarrollador Full Stack Web Developer más orientado al Back-end con capacidad de realizar proyectos escalables para poder construir en equipo. Me apasiona la programación, enfrentar nuevos retos y tener la oportunidad de crear soluciones a los diferentes problemas o necesidades de una empresa.
+> Hola! 👋 soy desarrollador Full Stack más orientado al Back-end con capacidad de realizar proyectos escalables para poder construir en equipo. Me apasiona la programación, enfrentar nuevos retos y tener la oportunidad de crear soluciones a los diferentes problemas o necesidades de una empresa.
 
 ## Lenguajes y Herramientas 
 ### Programming Lenguages
@@ -48,17 +48,3 @@ Braian Serra - Full Stack Web Developer 💻
 <a href="mailto:bnserra@hotmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/2086px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="hotmail" width="40" height="40" /></a>&nbsp;
 <a href="mailto:bnserra@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="40" height="40" /></a>
 
-<!--
-**bserra7/bserra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
