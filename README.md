@@ -1,4 +1,4 @@
-## Hola! Bienvenido/a 👋
+### Hola! Bienvenido/a 👋
 
 > 🙋‍♂️ Soy Braian, actualmente me desenvuelvo como Full Stack Web Developer más orientado al Back-end con capacidad de realizar proyectos escalables para poder construir en equipo. Me apasiona la programación y tener la oportunidad de crear soluciones a los diferentes problemas o necesidades de una empresa.
 
