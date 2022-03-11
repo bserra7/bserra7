@@ -1,10 +1,12 @@
+![image](https://user-images.githubusercontent.com/93556909/157974040-a510ae73-3840-471e-8645-4e046921e26a.png)
+
 <h2 align="center">
 Braian Serra - Full Stack Web Developer 💻
 </h2>
 
 &nbsp;&nbsp;
 
-> Hola! 👋 actualmente me desenvuelvo como Full Stack Web Developer más orientado al Back-end con capacidad de realizar proyectos escalables para poder construir en equipo. Me apasiona la programación y tener la oportunidad de crear soluciones a los diferentes problemas o necesidades de una empresa.
+> Hola! 👋 soy desarrollador Full Stack Web Developer más orientado al Back-end con capacidad de realizar proyectos escalables para poder construir en equipo. Me apasiona la programación, enfrentar nuevos retos y tener la oportunidad de crear soluciones a los diferentes problemas o necesidades de una empresa.
 
 ## Lenguajes y Herramientas 
 ### Programming Lenguages
@@ -42,13 +44,9 @@ Braian Serra - Full Stack Web Developer 💻
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 
 ## 🔍Quieres saber más de mi? Contáctame!
-<a href="https://www.linkedin.com/in/braianserra" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="linkedin profile" width="40" height="40" /></a>
-<a href="mailto:bnserra@hotmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/2086px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="hotmail" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/braianserra" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="linkedin profile" width="40" height="40" /></a>&nbsp;
+<a href="mailto:bnserra@hotmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/2086px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="hotmail" width="40" height="40" /></a>&nbsp;
 <a href="mailto:bnserra@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="40" height="40" /></a>
-
-
-
-
 
 <!--
 **bserra7/bserra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
