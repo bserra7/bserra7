@@ -42,16 +42,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 
-
-
-
-
-
-
-
-### 🔍Quieres saber más de mi? Contáctame!
+## 🔍Quieres saber más de mi? Contáctame!
+<a href="https://www.linkedin.com/in/braianserra" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="linkedin profile" width="40" height="40" /></a>
 - 📧 bnserra@hotmail.com
-- 📄 https://www.linkedin.com/in/braianserra
 
 <!--
 **bserra7/bserra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
