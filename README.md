@@ -25,6 +25,9 @@
 ### Back-end NodeJS, ExpressJS, Mongoose, Sequelize
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/600/1*AJTB4eViV7eQeOC9uUGABw.png" alt="nodejs" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://coursework.vschool.io/content/images/2015/11/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67.png" alt="express" height="40"/> </a>
+<a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img src="https://3987944058-files.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh2uMF0SeRmgQ9ESrbj%2F-Lh3BNps2alvubBYGzN1%2FScreen%20Shot%202019-06-10%20at%208.40.12%20PM.png?alt=media&token=b33b7f94-657f-4c88-b55c-8cbb586dfdea" alt="mongoose" height="40"/> </a>
+<a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://i.blogs.es/91493f/sequelize/1366_2000.png" alt="sequelize" height="40"/> </a> 
+
 
 ### Databases PostgreSQL, MongoDB
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
