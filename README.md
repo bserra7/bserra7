@@ -1,4 +1,8 @@
-# Braian Serra - Full Stack Web Developer
+<h2 align="center">
+Braian Serra - Full Stack Web Developer 💻
+</h2>
+
+&nbsp;&nbsp;
 
 > Hola! 👋 actualmente me desenvuelvo como Full Stack Web Developer más orientado al Back-end con capacidad de realizar proyectos escalables para poder construir en equipo. Me apasiona la programación y tener la oportunidad de crear soluciones a los diferentes problemas o necesidades de una empresa.
 
