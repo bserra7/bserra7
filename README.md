@@ -14,8 +14,8 @@
 - **Databases:** PostgreSQL, MongoDB
 
 ### 🔍Quieres saber más de mi? Contáctame!
-📧 bnserra@hotmail.com
-📄 https://www.linkedin.com/in/braianserra
+- 📧 bnserra@hotmail.com
+- 📄 https://www.linkedin.com/in/braianserra
 
 <!--
 **bserra7/bserra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
